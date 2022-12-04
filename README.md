@@ -2,6 +2,12 @@
 
 Some things are not finished yet, please wait a moment...
 
+---
+
+你知道吗？（2022.12.05 更新）
+
+Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用的第一张头像）
+
 <!--
 
 - 👋 Hi, I’m @taranakiNeko
