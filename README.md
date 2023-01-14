@@ -22,7 +22,11 @@ Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用�
 [![Twitter](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2Ftaranakineko&query=count&color=1da1f2&label=Twitter&labelColor=282c34&logo=twitter&suffix=+follows&cacheSeconds=3600)](https://twitter.com/taranakineko)
 [![Mastodon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fmastodon%2F%2540TaranakiNeko%2540alive.bar&query=count&color=6364ff&label=Mastodon&logo=mastodon&suffix=+follows&cacheSeconds=3600)](https://alive.bar/@TaranakiNeko)
 [![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Ftaraneko_what_happen&query=count&color=2CA5E0&label=Telegram&labelColor=282c34&logo=telegram&suffix=+members&cacheSeconds=3600)](https://t.me/taraneko_what_happen)
-[![Telegram](https://img.shields.io/badge/Blog-%E6%B9%9B%E8%93%9D%E7%9A%84%E8%B0%83%E8%89%B2%E6%9D%BF-%235BCFFA?logo=hexo)](https://nekoq.eu.org)
+[![Blog](https://img.shields.io/badge/Blog-%E6%B9%9B%E8%93%9D%E7%9A%84%E8%B0%83%E8%89%B2%E6%9D%BF-%235BCFFA?logo=hexo)](https://nekoq.eu.org)
+
+---
+
+[![Lovest Music](https://img.shields.io/badge/Favorite%20music-%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%BC%20--%20rye%20%C2%B7%20%E9%B9%BF%E4%B9%83-%23b49281?logo=spotify)](https://open.spotify.com/track/1AsuS22euoA54vnVMh3wnE)
 
 <!--
 
