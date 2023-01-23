@@ -10,11 +10,14 @@ Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用�
 
 ---
 
+[![Devices: Redmi](https://img.shields.io/badge/Devices-Redmi-%23ff6900?style=flat-square&logo=xiaomi)](https://mi.com)
 [![OS: Windows 11](https://img.shields.io/badge/OS-Windows%2011-%230078D4?style=flat-square&logo=windows11)](https://www.microsoft.com/windows/windows-11)
 [![OS: Android 12L](https://img.shields.io/badge/OS-Android%2012L-%233DDC84?style=flat-square&logo=android)](https://www.android.com)
+
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-%23FF7139?style=flat-square&logo=firefoxbrowser)](https://www.mozilla.org/firefox/browsers)
 [![Editor: VSCode](https://img.shields.io/badge/Editor-VS%20Code%20Insiders-%2324bfa5?style=flat-square&logo=visualstudiocode)](https://github.com/microsoft/vscode)
 [![Editor: vscodium](https://img.shields.io/badge/Editor-VSCodium-%232F80ED?style=flat-square&logo=vscodium)](https://github.com/VSCodium/vscodium)
+
 [![Blog: Hexo](https://img.shields.io/badge/Blog%20Framework-Hexo-%230e83cd?style=flat-square&logo=hexo)](https://hexo.io)
 [![Blog Analytics: Umami](https://img.shields.io/badge/Blog%20Analytics-Umami-%23000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDQyOCAzODkuMTEiPjxnIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PGcgZGF0YS1uYW1lPSJMYXllciA0Ij48Y2lyY2xlIGN4PSIyMTQuMTUiIGN5PSIxODEiIHI9IjE3MSIgZmlsbD0iI2ZmZiIgc3Ryb2tlPSIjMDAwIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMjAiPjwvY2lyY2xlPjxwYXRoIGQ9Ik00MTMgMTM0LjExSDE1LjI5YTE1IDE1IDAgMDAtMTUgMTV2MTUuM0MuMTIgMTY4IDAgMTcxLjUyIDAgMTc1LjExYzAgMTE4LjE5IDk1LjgxIDIxNCAyMTQgMjE0IDExNi40IDAgMjExLjEtOTIuOTQgMjEzLjkzLTIwOC42NyAwLS40NC4wNy0uODguMDctMS4zM3YtMzBhMTUgMTUgMCAwMC0xNS0xNXoiPjwvcGF0aD48L2c+PC9nPjwvc3ZnPg==)](https://umami.is)
 
