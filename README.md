@@ -34,7 +34,7 @@ Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用�
 
 ---
 
-![圖片](https://user-images.githubusercontent.com/55310629/224521617-9a4fcb28-d18f-40ec-9b46-d8b9415ee6e0.png)
+<img width="30%" height="30%" src="https://user-images.githubusercontent.com/55310629/224521617-9a4fcb28-d18f-40ec-9b46-d8b9415ee6e0.png" alt="下一次相遇可能在任何地方，但我们始终灿烂如星海"></img>
 
 <!--
 
