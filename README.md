@@ -10,9 +10,9 @@ Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用�
 
 ---
 
-[![Devices: Redmi](https://img.shields.io/badge/Devices-Redmi-%23ff6900?style=flat-square&logo=xiaomi)](https://mi.com)
+<!--[![Devices: Redmi](https://img.shields.io/badge/Devices-Redmi-%23ff6900?style=flat-square&logo=xiaomi)](https://mi.com)-->
 [![OS: Windows 11 Pro](https://img.shields.io/badge/OS-Windows%2011%20Pro-%230078D4?style=flat-square&logo=windows11)](https://www.microsoft.com/windows/windows-11)
-[![OS: Android 12L](https://img.shields.io/badge/OS-Android%2012L-%233DDC84?style=flat-square&logo=android)](https://www.android.com)
+[![OS: Android 11](https://img.shields.io/badge/OS-Android%2011-%233DDC84?style=flat-square&logo=android)](https://www.android.com)
 
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-%23FF7139?style=flat-square&logo=firefoxbrowser)](https://www.mozilla.org/firefox/browsers)
 [![Editor: VSCode](https://img.shields.io/badge/Editor-VS%20Code%20Insiders-%2324bfa5?style=flat-square&logo=visualstudiocode)](https://github.com/microsoft/vscode)
@@ -31,6 +31,10 @@ Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用�
 ---
 
 [![Lovest Music](https://img.shields.io/badge/Favorite%20music-%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%BC%20--%20rye%20%C2%B7%20%E9%B9%BF%E4%B9%83-%23b49281?style=flat-square&logo=spotify)](https://open.spotify.com/track/1AsuS22euoA54vnVMh3wnE)
+
+---
+
+![圖片](https://user-images.githubusercontent.com/55310629/224521617-9a4fcb28-d18f-40ec-9b46-d8b9415ee6e0.png)
 
 <!--
 
