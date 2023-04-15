@@ -12,7 +12,7 @@ Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用�
 
 [![Devices: OnePlus](https://img.shields.io/badge/Devices-OnePlus-%23f50414?style=flat-square&logo=oneplus)](https://mi.com)
 [![OS: Windows 11 Pro](https://img.shields.io/badge/OS-Windows%2011%20Pro-%230078D4?style=flat-square&logo=windows11)](https://www.microsoft.com/windows/windows-11)
-[![OS: Android 13](https://img.shields.io/badge/OS-Android%2013-%233DDC84?style=flat-square&logo=android)](https://www.android.com)
+[![OS: Android 13](https://img.shields.io/badge/OS-Nameless%20on%20Android%2013%20-%233DDC84?style=flat-square&logo=android)](https://nameless.wiki)
 
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-%23FF7139?style=flat-square&logo=firefoxbrowser)](https://www.mozilla.org/firefox/browsers)
 [![Editor: VSCode](https://img.shields.io/badge/Editor-VS%20Code%20Insiders-%2324bfa5?style=flat-square&logo=visualstudiocode)](https://github.com/microsoft/vscode)
@@ -23,14 +23,14 @@ Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用�
 
 ---
 
-[![Twitter](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2Ftaranakineko&query=count&color=1da1f2&label=Twitter&labelColor=282c34&logo=twitter&suffix=+follows&cacheSeconds=3600&style=flat-square)](https://twitter.com/taranakineko)
+[![Twitter](https://img.shields.io/badge/twitter-%40taranakineko-%231da1f2?style=flat-square&logo=twitter)](https://twitter.com/taranakineko)
 [![Mastodon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fmastodon%2F%2540TaranakiNeko%2540alive.bar&query=count&color=6364ff&label=Mastodon&logo=mastodon&suffix=+follows&cacheSeconds=3600&style=flat-square)](https://alive.bar/@TaranakiNeko)
 [![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Ftaraneko_what_happen&query=count&color=2CA5E0&label=Telegram&labelColor=282c34&logo=telegram&suffix=+members&cacheSeconds=3600&style=flat-square)](https://t.me/taraneko_what_happen)
 [![Blog](https://img.shields.io/badge/Blog-%E6%B9%9B%E8%93%9D%E7%9A%84%E8%B0%83%E8%89%B2%E6%9D%BF-%235BCFFA?style=flat-square&logo=hexo)](https://nekoq.eu.org)
 
 ---
 
-[![Lovest Music](https://img.shields.io/badge/Favorite%20music-%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%BC%20--%20rye%20%C2%B7%20%E9%B9%BF%E4%B9%83-%23b49281?style=flat-square&logo=spotify)](https://open.spotify.com/track/1AsuS22euoA54vnVMh3wnE)
+[![Favorite Music](https://img.shields.io/badge/Favorite%20music-%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%BC%20--%20rye%20%C2%B7%20%E9%B9%BF%E4%B9%83-%23b49281?style=flat-square&logo=spotify)](https://open.spotify.com/track/1AsuS22euoA54vnVMh3wnE)
 
 ---
 
