@@ -30,7 +30,9 @@ Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用�
 
 ---
 
-[![Favorite Music](https://img.shields.io/badge/Favorite%20music-%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%BC%20--%20rye%20%C2%B7%20%E9%B9%BF%E4%B9%83-%23b49281?style=flat-square&logo=spotify)](https://open.spotify.com/track/1AsuS22euoA54vnVMh3wnE)
+[![Favourite Music](https://img.shields.io/badge/Favorite%20music-%E3%83%A1%E3%83%AA%E3%83%BC%E3%83%A1%E3%83%AA%E3%83%BC%20--%20rye%20%C2%B7%20%E9%B9%BF%E4%B9%83-%23b49281?style=flat-square&logo=spotify)](https://open.spotify.com/track/1AsuS22euoA54vnVMh3wnE)
+[![Favourite Music](https://img.shields.io/badge/Favorite%20Music-%20%E8%81%B4%E3%81%84%E3%81%A6%20--%20yuanfen%20%C2%B7%20%E9%B9%BF%E4%B9%83-%23f4dce7?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=jXSef9WYC00)
+[![Favourite Music](https://img.shields.io/badge/Favorite%20Music-%E6%9C%AA%E3%81%A0%E3%80%81%E9%9D%92%E3%81%84%20%C2%B7%20%E6%B9%8A%E3%81%82%E3%81%8F%E3%81%82-007fff?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=16WxRVoTAx0)
 
 ---
 
