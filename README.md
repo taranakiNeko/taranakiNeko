@@ -12,6 +12,7 @@ Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用�
 
 [![Devices: OnePlus](https://img.shields.io/badge/Devices-OnePlus-%23f50414?style=flat-square&logo=oneplus)](https://mi.com)
 [![OS: Windows 11 Pro](https://img.shields.io/badge/OS-Windows%2011%20Pro-%230078D4?style=flat-square&logo=windows11)](https://www.microsoft.com/windows/windows-11)
+[![OS: ArchLinux](https://img.shields.io/badge/OS-ArchLinux-%231793d1?style=flat-square&logo=archlinux)](https://archlinux.org/)
 [![OS: Android 13](https://img.shields.io/badge/OS-LineageOS%20on%20Android%2013%20-%233DDC84?style=flat-square&logo=android)](https://lineageos.org/)
 
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-%23FF7139?style=flat-square&logo=firefoxbrowser)](https://www.mozilla.org/firefox/browsers)
