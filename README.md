@@ -8,9 +8,11 @@ Some things are not finished yet, please wait a moment...
 
 Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用的第一张头像）
 
-## 你知道吗（2023.05.25 更新）
+## 你知道吗？（2023.05.25 更新）
 
-Tara 的 GitHub 账户头像，仅作怀念，怀念曾经的
+Tara 的 GitHub 账户头像，仅作怀念，永远怀念曾经的
+
+<!-- 心若在 梦就在 天地间还有真爱 -->
 
 ---
 
