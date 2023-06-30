@@ -20,6 +20,12 @@ Tara 的 GitHub 账户头像，仅作怀念，永远怀念曾经的
 [![OS: Windows 11 Pro](https://img.shields.io/badge/OS-Windows%2011%20Pro-%230078D4?style=flat-square&logo=windows11)](https://www.microsoft.com/windows/windows-11)
 [![OS: ArchLinux](https://img.shields.io/badge/OS-ArchLinux-%231793d1?style=flat-square&logo=archlinux)](https://archlinux.org/)
 [![OS: Android 13](https://img.shields.io/badge/OS-LineageOS%20on%20Android%2013%20-%233DDC84?style=flat-square&logo=android)](https://lineageos.org/)
+<details>
+  <p>
+    <a href="https://store.google.com/jp/category/phones"><img alt="Devices: Pixel" src="https://img.shields.io/badge/Devices-Pixel%206-%23ff7d68?style=flat-square&amp;logo=googleplay"/></a>
+    <img alt="OS: Android 13" src="https://img.shields.io/badge/OS-Pixel%20on%20Android%2013%20-%233DDC84?style=flat-square&amp;logo=android"/>
+  </p>
+</details>
 
 [![Browser: Firefox](https://img.shields.io/badge/Browser-Firefox-%23FF7139?style=flat-square&logo=firefoxbrowser)](https://www.mozilla.org/firefox/browsers)
 [![Editor: VSCode](https://img.shields.io/badge/Editor-VS%20Code%20Insiders-%2324bfa5?style=flat-square&logo=visualstudiocode)](https://github.com/microsoft/vscode)
