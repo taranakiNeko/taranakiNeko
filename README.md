@@ -4,6 +4,10 @@ Some things are not finished yet, please wait a moment...
 
 ---
 
+<details>
+
+<summary>展开以阅读更多废话（bushi</summary>
+
 ## 你知道吗？（2022.12.05 更新）
 
 Tara 的 Github 账户使用的是初始头像（也就是在互联网上使用的第一张头像）
@@ -49,7 +53,9 @@ need to decrypt. [Placeholder]
 
 ---
 
-<img width="30%" height="30%" src="https://user-images.githubusercontent.com/55310629/224521617-9a4fcb28-d18f-40ec-9b46-d8b9415ee6e0.png" alt="下一次相遇可能在任何地方，但我们始终灿烂如星海"></img>
+<a href="https://www.bilibili.com/read/cv10019394/"><img width="30%" height="30%" src="https://user-images.githubusercontent.com/55310629/224521617-9a4fcb28-d18f-40ec-9b46-d8b9415ee6e0.png" alt="下一次相遇可能在任何地方，但我们始终灿烂如星海"></img></a>
+
+</details>
 
 <!--
 
