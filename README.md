@@ -34,8 +34,8 @@ Tara 的 GitHub 账户头像，仅作怀念，永远怀念曾经的
 
 ---
 
-[![Twitter](https://img.shields.io/badge/twitter-%40taranakineko-%231da1f2?style=flat-square&logo=twitter)](https://twitter.com/taranakineko)
 [![Mastodon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fmastodon%2F%2540TaranakiNeko%2540alive.bar&query=count&color=6364ff&label=Mastodon&logo=mastodon&suffix=+follows&cacheSeconds=3600&style=flat-square)](https://alive.bar/@TaranakiNeko)
+[![Twitter](https://img.shields.io/badge/twitter-%40taranakineko-%231da1f2?style=flat-square&logo=twitter)](https://twitter.com/taranakineko)
 [![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Ftaraneko_what_happen&query=count&color=2CA5E0&label=Telegram&labelColor=282c34&logo=telegram&suffix=+members&cacheSeconds=3600&style=flat-square)](https://t.me/taraneko_what_happen)
 [![Blog](https://img.shields.io/badge/Blog-%E6%B9%9B%E8%93%9D%E7%9A%84%E8%B0%83%E8%89%B2%E6%9D%BF-%235BCFFA?style=flat-square&logo=hexo)](https://nekoq.eu.org)
 
