@@ -6,7 +6,7 @@ Some things are not finished yet, please wait a moment...
 
 <details>
 
-<summary>展开以阅读更多废话（bushi</summary>
+<summary>展开以阅读更多废话（bushidō）</summary>
 
 ## 你知道吗？（2022.12.05 更新）
 
